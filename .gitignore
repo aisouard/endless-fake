@@ -2,3 +2,5 @@
 /game/*
 
 /chromedriver*
+__pycache__/
+/endless_fake.egg-info
