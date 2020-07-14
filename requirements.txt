@@ -1,0 +1,6 @@
+opencv_python==4.2.0.34
+pygame==1.9.6
+selenium==3.141.0
+numpy==1.18.1
+docopt==0.6.2
+nativecap==1.0.3
